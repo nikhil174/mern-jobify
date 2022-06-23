@@ -1,4 +1,4 @@
 Login
 -----
 email: nikhil@gmail.com,
-password: password
+Password: password
